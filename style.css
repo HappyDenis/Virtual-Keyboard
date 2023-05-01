@@ -45,7 +45,7 @@ button:hover {
 }
 
 .active {
-  background:brown;
+  background:rgb(124, 116, 116);
 }
 .enter {
   flex-grow: 0.32;
@@ -76,5 +76,5 @@ button:hover {
 }
 
 .capslock-active {
-  background: rgba(157, 127, 70, 0.688);
+  background: аивиrgba(157, 127, 70, 0.688);
 }
